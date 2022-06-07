@@ -3,7 +3,6 @@
 - 🔭 I’m currently working on a issue tracker application! Also, doing a good amount of leetcode problems.
 - 🌱 I’m currently learning C# and I plan on to try and learn more C based languages!
 - 💬 Ask me about jobs! I'm currently looking for my first Software Development job!
-- 📫 [LinkedIn](https://www.linkedin.com/in/thomas-selden-391027219/) 
 - 📫 Email: thomasselden42@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love the Ocean! Did you know, ninety percent of the earth’s volcanic activity happens in the ocean?
